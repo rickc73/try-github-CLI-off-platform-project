@@ -1,4 +1,4 @@
-import random
+import random #imports random library
 
 name = "Joe"
 question = "Will I win the lottery?"
